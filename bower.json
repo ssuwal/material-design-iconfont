@@ -1,20 +1,12 @@
 {
   "name": "material-design-iconfont",
-  "version": "0.0.3",
-  "homepage": "https://github.com/zckrs/material-design-iconfont",
+  "version": "0.0.4",
+  "homepage": "https://github.com/ssuwal/material-design-iconfont",
   "authors": [
-    "Mehdy Dara <mdara@eleven-labs.com>"
+    "Santosh Suwal <santosh@metroclick.com>"
   ],
   "license": "MIT",
   "main": [
-    "./dist/angular-toastr.tpls.js",
-    "./dist/angular-toastr.css"
-  ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "./iconfont/material-icons.css"
   ]
 }
